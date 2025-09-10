@@ -1,0 +1,7 @@
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.csproj.AssemblyReference.cache
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.AssemblyInfoInputs.cache
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.AssemblyInfo.cs
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.csproj.CoreCompileInputs.cache
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.MvcApplicationPartsAssemblyInfo.cs
+C:\mycode\asp.net\securityExample-api\securityExample-api\obj\Debug\net8.0\securityExample-api.MvcApplicationPartsAssemblyInfo.cache
