@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\securityExample-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\repository\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\repository\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\dtos\\getuserdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\dtos\\getuserdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\dtos\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\dtos\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\controllers\\interfaces\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\controllers\\interfaces\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\system\\exceptions\\itemsdonotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\system\\exceptions\\itemsdonotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\system\\exceptions\\itemdoesnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\system\\exceptions\\itemdoesnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\system\\exceptions\\itemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\system\\exceptions\\itemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\system\\exceptions\\invalidvalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +51,12 @@
       "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\users\\controllers\\interfaces\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\users\\controllers\\interfaces\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\data\\migrations\\entityframework\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\data\\migrations\\entityframework\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\data\\migrations\\entityframework\\20240603091918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\data\\migrations\\entityframework\\20240603091918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\data\\migrations\\entityframework\\20240523141855_modifyfkproductpropertytopropertiesondeletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +67,12 @@
       "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\data\\migrations\\entityframework\\20240523124841_refactorproducttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\securityexample-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\securityexample-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|c:\\mycode\\asp.net\\securityexample-api\\securityexample-api\\securityexample-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AAA35FE-1B13-4274-A91A-EEA512A7D88C}|securityExample-api\\securityExample-api.csproj|solutionrelative:securityexample-api\\securityexample-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,84 +82,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InvalidValueException.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
-              "RelativeToolTip": "securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:52:21.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\AppDbContext.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\AppDbContext.cs",
-              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:48:52.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "securityExample-api\\Users\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Controllers\\UsersController.cs",
               "RelativeToolTip": "securityExample-api\\Users\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwBcAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T17:45:02.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
-              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:44:53.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240523124841_RefactorProductTables.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
-              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:44:52.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersRepository.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\UsersRepository.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\Users\\Repository\\UsersRepository.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\UsersRepository.cs",
-              "RelativeToolTip": "securityExample-api\\Users\\Repository\\UsersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:43:15.861Z",
               "EditorCaption": ""
             },
             {
@@ -145,7 +112,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsDoNotExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemsDoNotExistException.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\System\\Exceptions\\ItemsDoNotExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemsDoNotExistException.cs",
+              "RelativeToolTip": "securityExample-api\\System\\Exceptions\\ItemsDoNotExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemDoesNotExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemDoesNotExistException.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\System\\Exceptions\\ItemDoesNotExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemDoesNotExistException.cs",
+              "RelativeToolTip": "securityExample-api\\System\\Exceptions\\ItemDoesNotExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ItemAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\System\\Exceptions\\ItemAlreadyExistsException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\ItemAlreadyExistsException.cs",
+              "RelativeToolTip": "securityExample-api\\System\\Exceptions\\ItemAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidValueException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
+              "RelativeToolTip": "securityExample-api\\System\\Exceptions\\InvalidValueException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:52:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:48:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Users\\DTOs\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\DTOs\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "securityExample-api\\Users\\DTOs\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserDetailsResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\DTOs\\GetUserDetailsResponse.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Users\\DTOs\\GetUserDetailsResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\DTOs\\GetUserDetailsResponse.cs",
+              "RelativeToolTip": "securityExample-api\\Users\\DTOs\\GetUserDetailsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:38.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Users\\Repository\\UsersRepository.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\UsersRepository.cs",
+              "RelativeToolTip": "securityExample-api\\Users\\Repository\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:43:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Users\\Repository\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Users\\Repository\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "securityExample-api\\Users\\Repository\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Program.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Program.cs",
+              "RelativeToolTip": "securityExample-api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:30:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:26.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240603091918_InitialCreate.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240603091918_InitialCreate.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240603091918_InitialCreate.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240603091918_InitialCreate.cs",
+              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240603091918_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:22:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
+              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523141855_ModifyFKProductPropertyToPropertiesOnDeleteBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:44:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240523124841_RefactorProductTables.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
+              "RelativeDocumentMoniker": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
+              "RelativeToolTip": "securityExample-api\\Data\\Migrations\\EntityFramework\\20240523124841_RefactorProductTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:44:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\appsettings.json",
               "RelativeDocumentMoniker": "securityExample-api\\appsettings.json",
@@ -153,34 +302,19 @@
               "RelativeToolTip": "securityExample-api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-10T17:31:12.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T17:31:12.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Program.cs",
-              "RelativeDocumentMoniker": "securityExample-api\\Program.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\Program.cs",
-              "RelativeToolTip": "securityExample-api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAASwBYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:30:57.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "securityExample-api",
+              "DocumentIndex": 17,
+              "Title": "securityExample-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\securityExample-api.csproj",
               "RelativeDocumentMoniker": "securityExample-api\\securityExample-api.csproj",
               "ToolTip": "C:\\mycode\\asp.net\\securityExample-api\\securityExample-api\\securityExample-api.csproj",
               "RelativeToolTip": "securityExample-api\\securityExample-api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T17:26:23.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T17:26:23.167Z"
             }
           ]
         },
